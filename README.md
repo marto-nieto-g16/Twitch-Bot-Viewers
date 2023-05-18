@@ -38,7 +38,7 @@ python view.py
 
 3. Ingresa el número de sitios proxy que deseas abrir y usar para enviar vistas.
 
-4. El script abrirá el número especificado de sitios proxy y enviará vistas a tu canal de Twitch usando esos proxies.
+4. El script abrirá el número especificado de sitios proxy y enviará vistas a tu canal de Twitch.
 
 5. Para detener el script, presiona `Ctrl + C` en la línea de comando.
 
