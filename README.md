@@ -1,6 +1,6 @@
 # Twitch Bot Viewers
 
-Un script de Python que utiliza Selenium para abrir múltiples sitios proxy y enviar vistas a un canal de Twitch usando el proxie https://www.blockaway.net
+Un script de Python que utiliza Selenium para abrir múltiples sitios proxy y enviar vistas a un canal de Twitch
 
 ## Requisitos
 
@@ -43,3 +43,4 @@ python view.py
 5. Para detener el script, presiona `Ctrl + C` en la línea de comando.
 
 Nota: Si encuentras algún error, contacta al autor en Github.
+No soy responsable de su uso.
