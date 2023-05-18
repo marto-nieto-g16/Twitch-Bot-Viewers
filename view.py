@@ -58,5 +58,5 @@ if __name__ == '__main__':
 	try:
 		main()
 	except KeyboardInterrupt as e:
-		print(Colorate.Vertical(Colors.orange, ("the script has been stopped ")))
+		print(Colorate.Vertical(Colors.orange, ("the script has been stopped")))
     
