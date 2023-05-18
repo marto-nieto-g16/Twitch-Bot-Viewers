@@ -42,7 +42,7 @@ python view.py
 
 5. Para detener el script, presiona `Ctrl + C` en la línea de comando.
 
-ste sistema abre múltiples sitios en segundo plano, así que asegúrese de tener suficiente RAM o realice esta operación en una computadora que no esté en uso. (Podría estar en un potente servidor virtual).
+Este sistema abre múltiples sitios en segundo plano, así que asegúrese de tener suficiente RAM o realice esta operación en una computadora que no esté en uso. (Podría estar en un potente servidor virtual).
 
 Si la entrega de la audiencia tarda demasiado y envía solo a unos pocos espectadores, cierre el cliente y vuelva a abrirlo, luego repita los mismos pasos. (el proxy a veces puede ralentizarse).
 
