@@ -15,7 +15,7 @@ Un script de Python que utiliza Selenium para abrir múltiples sitios proxy y en
 1. Clona el repositorio:
 
 ```
-git clone https://github.com/kichi779/Twitch-Proxy-Bot.git
+git clone https://github.com/marto-nieto-g16/Twitch-Bot-Viewers.git
 ```
 
 2. Instala las dependencias:
